@@ -3,6 +3,6 @@ markdown: kramdown
 url: http://marklnz.github.io
 title: Mark Lawrence
 tagline: Sundry musings from a software developer.
-description: A blog from a software developer about software development and related things. Lots (hopefully) of stuff like code, tools, ideas, concepts, etc.
+description: Writings on software development and related things. Lots (hopefully) of stuff like code, tools, ideas, concepts, etc.
 paginate: 10
 highlighter: rouge
