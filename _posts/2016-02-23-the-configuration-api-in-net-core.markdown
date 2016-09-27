@@ -9,9 +9,8 @@ This is a good overview article on the Configuration system changes in .Net 5, o
 
 The key takeaways are:
 
-The Configuration API is completely different to previous .net versions
-You can still use your old config files to hold settings
-You can capture and read Windows environment variables using the configuration API now
-You can configure multiple sources to be read into the config "store" for an application. 
-The last value read in for a given setting is the one that takes precedence, so you can easily override default settings.
-LikeThe Configuration API in .Net Core
+* The Configuration API is completely different to previous .net versions
+* You can still use your old config files to hold settings
+* You can capture and read Windows environment variables using the configuration API now
+* You can configure multiple sources to be read into the config "store" for an application. 
+* The last value read in for a given setting is the one that takes precedence, so you can easily override default settings.
