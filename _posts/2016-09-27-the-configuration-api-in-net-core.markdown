@@ -3,8 +3,6 @@ published: false
 title: The Configuration API in .Net Core
 layout: post
 ---
-![laptop](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAZ1AAAAJDZjYzg3ZjNlLTA5ZWYtNDg4Ny1iYjYxLTExY2MwMmRiZWM0Ng.jpg)
-
 This is a good overview article on the Configuration system changes in .Net 5, or .Net Core 1.0 as it's being called now.
 
 <a href="https://msdn.microsoft.com/en-us/magazine/mt632279.aspx"><img src="https://msdn.microsoft.com/dynimg/IC842630.png" /></a>
