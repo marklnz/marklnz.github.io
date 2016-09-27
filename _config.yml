@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://marklnz.github.io
+title: Mark Lawrence
+tagline: Random ramblings of real ridiculousness
+description: A blog from a software developer about software development and related things. Lots (hopefully) of stuff like code, tools, ideas, concepts, etc.
+paginate: 10
