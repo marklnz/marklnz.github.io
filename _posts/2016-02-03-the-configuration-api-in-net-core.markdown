@@ -2,8 +2,6 @@
 published: true
 title: The Configuration API in .Net Core
 layout: post
-tags: [dotnetcore, configuration, dotnet]
-categories: [dotnet, dotnetcore]
 ---
 This is a good overview article on the Configuration system changes in .Net 5, or .Net Core 1.0 as it's being called now.
 
