@@ -5,7 +5,7 @@ layout: post
 ---
 This is a good overview article on the Configuration system changes in .Net 5, or .Net Core 1.0 as it's being called now.
 
-<a href="https://msdn.microsoft.com/en-us/magazine/mt632279.aspx"><img src="https://msdn.microsoft.com/dynimg/IC842630.png" /></a>
+<a href="https://msdn.microsoft.com/en-us/magazine/mt632279.aspx"><img width="25%" src="https://msdn.microsoft.com/dynimg/IC842630.png" /><br/>https://msdn.microsoft.com/en-us/magazine/mt632279.aspx</a>
 
 The key takeaways are:
 
