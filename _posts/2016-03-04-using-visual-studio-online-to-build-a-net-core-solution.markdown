@@ -3,21 +3,21 @@ published: true
 title: Using Visual Studio Online to build a .net core solution
 layout: post
 ---
-#The situation
+# The situation
 
 I've been working recently on some .net core projects, and the time has come to set up a proper build and deploy process for them. Development of business functionality that will require system testing is about to begin, and in order to get into the groove of code-unit test-deploy-test-release cycle as quickly as possible, I need a repeatable automated process in place.
 
-#The tools
+# The tools
 
 For the projects we currently have in production, which are all based on earlier versions of .net (mostly 4.0) across the whole stack, we have an instance of Visual Studio Online set up. We use Git repositories for version control, and we currently use Octopus Deploy for release management and deployment. 
 
 The current process is that each developer will build and unit test their code on their local machine, and commit to their local git repository, before then pushing their branch up to the server, and creating a pull request. Once the pull request is approved, their code is merged to the Master branch, and a Continuous Integration build is run. This builds the code, runs the build verification tests, packages and creates a release in Octopus Deploy, and deploys the release to the first of our test environments. That process needs to remain the same. 
 
-#Building "old" .net
+# Building "old" .net
 
 With the "old" .net framework, the Visual Studio Online Build process is simple to configure - I have a "set version number" script that I run first off to synchronise the version number across all the built assemblies, as I like to like the version number to the build by incorporating it into the assemblyinfo for each project. Apart from that, the rest is just a "Visual Studio build" step, a "Visual Studio Test" step, then an Octopus Deploy step to upload the packaged build artifacts to the deployment server and deploy them.
 
-#Building .net Core
+# Building .net Core
 
 Unfortunately it's not QUITE that simple for .net core. At least, not yet. I found that you can't rely on the Visual Studio Build and Test steps to do the heavy lifting. Instead, I've written some powershell scripts to do the equivalent. 
 
