@@ -6,4 +6,4 @@ tagline: Sundry musings from a software developer.
 description: Writings on software development and related things. Lots (hopefully) of stuff like code, tools, ideas, concepts, etc.
 paginate: 10
 highlighter: rouge
-theme: jekyll-theme-midnight
+theme: midnight
