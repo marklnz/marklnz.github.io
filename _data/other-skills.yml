@@ -1,0 +1,27 @@
+- name: DevOps
+  percentage: 90
+  color: info
+
+- name: Git & GitHub
+  percentage: 75
+  color: success
+
+- name: Solution Architecture
+  percentage: 80
+  color: info
+
+- name: Microsoft Azure
+  percentage: 50
+  color: warning
+
+- name: SQL Server
+  percentage: 75
+  color: success
+
+- name: Docker
+  percentage: 75
+  color: success
+
+- name: Kubernetes
+  percentage: 50
+  color: warning

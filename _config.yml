@@ -1,9 +1,93 @@
-excerpt_separator: ""
-markdown: kramdown
-url: http://marklnz.github.io
-title: Mark Lawrence
-tagline: Sundry musings from a software developer.
-description: Writings on software development and related things. Lots (hopefully) of stuff like code, tools, ideas, concepts, etc.
-paginate: 10
-highlighter: rouge
-theme: jekyll-theme-midnight
+### Site Settings ###
+title               : markl.nz
+description         : >-
+                      I turn coffee :coffee: into code,
+                      use tabs over spaces (kidding - I use whatever works)
+                      and rarely get things right first time (also kidding - my code ALWAYS works! :rofl:).
+baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : marklnz/marklnz.github.io         # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+external_new_tab    : true
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Mark Lawrence
+  image             : assets/bitmoji.png
+# behance           : your_username
+# dribbble          : your_username
+  email             : markl.nz@hotmail.com
+# facebook          : your_username
+  github            : marklnz
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : marklnz
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  twitter           : markl_nz
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+# disqus:
+#   shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: UA-64756185-1
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

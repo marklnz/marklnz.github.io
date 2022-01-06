@@ -1,0 +1,20 @@
+---
+layout: default
+title: blog
+weight: 2
+permalink: /blog/
+---
+
+<style>
+    .post.card:hover:not(.project) {
+        transform: translateY(-8px);
+        box-shadow: -2px 8px 40px -12px rgb(0 0 0 / 24%);
+    }
+</style>
+
+{% if site.posts.size == 0 %}
+    {% include comingsoon.html %}
+{% else %}
+    {% include blog/search.html %}
+    {% include blog/index.html %}
+{% endif %}
