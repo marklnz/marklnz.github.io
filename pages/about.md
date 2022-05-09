@@ -20,7 +20,7 @@ Hi! I'm **{{ site.author.name }}** :wave:,<br>
 
 I love designing and building both front end (websites) and back end (APIs) software. I have over 25 years of experience in software development, working for organisations ranging in size from multinational enterprises to a small start-up. I'm a senior developer with a wide range of experience and technical expertise working primarily with C#/.net based software and websites. I have worked on projects ranging in size and complexity, in a variety of different industries.
 
-I have set up a profile on <a href="https://profile.codersrank.io/user/marklnz">CodersRank.io</a> to detail my skills, experience and ongoing coding contributions. My CodersRank profile can be viewed at <a href="https://profile.codersrank.io/user/marklnz">https://profile.codersrank.io/user/marklnz</a>. I use the data from my CodersRank profile below to highlight my skills and experience. Also, my resume is available for downloaded <a href="/resume/">here</a>.
+I have set up a profile on <a href="https://profile.codersrank.io/user/marklnz">CodersRank.io</a> to detail my skills, experience and ongoing coding contributions. My CodersRank profile can be viewed at <a href="https://profile.codersrank.io/user/marklnz">https://profile.codersrank.io/user/marklnz</a>. I use the data from my CodersRank profile below to highlight my skills and experience. Also, my resume is available for downloaded <a href="/resume.pdf/">here</a>.
 
 <div class="row">
     <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".15s">
@@ -68,7 +68,7 @@ Here's what my project contributions over the past year look like. This includes
 
 As the IT industry is constantly changing, I'm always adding new skills to my repertoire. I'm always ready for fresh challenges with new techniques and technologies. The skills I have used most over the past 12 months are shown on the chart below (courtesy of <a href="https://profile.codersrank.io/user/marklnz">CodersRank</a>).
 
-I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume">here</a>.
+I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume.pdf">here</a>.
 
 <codersrank-skills-chart username="marklnz" labels="true" legend="true" tooltip="true" skills="C#,Blazor,CSS,HTML,JavaScript,SQL,TSQL,TypeScript" branding="false"></codersrank-skills-chart>
 
@@ -84,7 +84,7 @@ I have much more detail and a more complete list of my skills in my resume, whic
 
 ## Professional Experience
 
-I have over 25 years of experience in software development, and have worked for a variety of organisations, large and small. My relevant experience is summarised below (again, courtesy of <a href="https://profile.codersrank.io/user/marklnz">CodersRank</a>). My resume contains full details of my experience. You can download or print a copy <a href="/resume">here</a>.
+I have over 25 years of experience in software development, and have worked for a variety of organisations, large and small. My relevant experience is summarised below (again, courtesy of <a href="https://profile.codersrank.io/user/marklnz">CodersRank</a>). My resume contains full details of my experience. You can download or print a copy <a href="/resume.pdf">here</a>.
 <br />
 <codersrank-work-experience username="marklnz" branding="false" max-items="3"></codersrank-work-experience>
 
