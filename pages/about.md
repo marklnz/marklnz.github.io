@@ -58,11 +58,11 @@ I have set up a profile on <a href="https://profile.codersrank.io/user/marklnz">
     </div>
 </div>
 
-## My Coding Activity
+<!-- ## My Coding Activity
 
 Here's what my project contributions over the past year look like. This includes commits to my github projects as well as my activity in the commercial projects I'm working on. This chart forms part of my <a href="https://profile.codersrank.io/user/marklnz">CodersRank.io</a> profile.
 
-<codersrank-activity username="marklnz" labels legend tooltip step="5" branding="false"></codersrank-activity>
+<codersrank-activity username="marklnz" labels legend tooltip step="5" branding="false"></codersrank-activity> -->
 
 ## My Skills
 
