@@ -7,195 +7,221 @@
 -->
 
 <html lang="en" class="h-100">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<head>
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="about me" />
+        <meta
+            property="og:description"
+            content="I turn coffee :coffee: into code, use tabs over spaces (kidding - I use whatever works) and rarely get things right first time (also kidding - my code ALWAYS..."
+        />
 
-  
-  
+        <title>about me</title>
+        <meta
+            name="description"
+            content="I turn coffee :coffee: into code, use tabs over spaces (kidding - I use whatever works) and rarely get things right first time (also kidding - my code ALWAYS..."
+        />
 
-  
+        <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico" />
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Theme style -->
+        <script src="/assets/js/theme.js"></script>
 
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="about me">
-  <meta property="og:description" content="I turn coffee :coffee: into code, use tabs over spaces (kidding - I use whatever works) and rarely get things right first time (also kidding - my code ALWAYS...">
+        <!-- Font Awesome CDN -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css" />
 
-  <title>about me</title>
-  <meta name="description" content="I turn coffee :coffee: into code, use tabs over spaces (kidding - I use whatever works) and rarely get things right first time (also kidding - my code ALWAYS...">
+        <!-- Bootstrap CSS CDN -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
 
-  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+        <!-- Animate CSS CDN -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" />
 
-  <!-- Theme style -->
-  <script src="/assets/js/theme.js"></script>
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/assets/css/style.css" />
+    </head>
 
-  <!-- Font Awesome CDN -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
+    <body class="h-100 d-flex flex-column">
+        <main class="flex-shrink-0 container mt-5">
+            <nav class="navbar navbar-expand-lg navbar-themed">
+                <a class="navbar-brand" href="/"
+                    ><h5><b>markl.nz</b></h5></a
+                >
 
-  <!-- Bootstrap CSS CDN -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+                <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#navbarNavAltMarkup"
+                    aria-controls="navbarNavAltMarkup"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                >
+                    <i class="fas fa-1x fa-bars text-themed"></i>
+                </button>
 
-  <!-- Animate CSS CDN -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css">
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav ml-auto">
+                        <a class="nav-item nav-link active" href="/about/">about me</a>
 
-  <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/css/style.css">
+                        <a class="nav-item nav-link" href="/projects/">projects</a>
 
-</head>
+                        <a class="nav-item nav-link" href="/blog/">blog</a>
 
-<body class="h-100 d-flex flex-column">
+                        <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
+                    </div>
+                </div>
+            </nav>
+            <div class="col-lg-10 mx-auto mt-5 markdown-body">
+                <script src="https://unpkg.com/@codersrank/activity@0.9.14/codersrank-activity.min.js"></script>
 
-  <main class="flex-shrink-0 container mt-5">
-    <nav class="navbar navbar-expand-lg navbar-themed">
+                <script src="https://unpkg.com/@codersrank/skills-chart@0.9.21/codersrank-skills-chart.min.js"></script>
 
-  <a class="navbar-brand" href="/"><h5><b>markl.nz</b></h5></a>
+                <script src="https://unpkg.com/@codersrank/work-experience@0.9.8/codersrank-work-experience.min.js"></script>
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <i class="fas fa-1x fa-bars text-themed"></i>
-  </button>
+                <h1 id="about-me"><strong>About Me</strong></h1>
 
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav ml-auto">
-<a class="nav-item nav-link active" href="/about/">about me</a>
+                <p>
+                    Hi! I’m <strong>Mark Lawrence</strong>
+                    <img class="emoji" title=":wave:" alt=":wave:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" height="20" width="20" />,<br />
+                </p>
 
-      <a class="nav-item nav-link " href="/projects/">projects</a>
+                <p>
+                    I love designing and building both front end (websites) and back end (APIs) software. I have over 25 years of experience in software development, working for organisations ranging
+                    in size from multinational enterprises to a small start-up. I’m a senior developer with a wide range of experience and technical expertise working primarily with C#/.net based
+                    software and websites. I have worked on projects ranging in size and complexity, in a variety of different industries.
+                </p>
 
-      <a class="nav-item nav-link " href="/blog/">blog</a>
+                <p>
+                    I have set up a profile on <a href="https://profile.codersrank.io/user/marklnz">CodersRank.io</a> to detail my skills, experience and ongoing coding contributions. My CodersRank
+                    profile can be viewed at <a href="https://profile.codersrank.io/user/marklnz">https://profile.codersrank.io/user/marklnz</a>. I use the data from my CodersRank profile below to
+                    highlight my skills and experience. Also, my resume is available for downloaded <a href="/resume/">here</a>.
+                </p>
 
-      
-
-      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
-    </div>
-  </div>
-
-</nav>
-    <div class="col-lg-10 mx-auto mt-5 markdown-body">
-  <script src="https://unpkg.com/@codersrank/activity@0.9.14/codersrank-activity.min.js"></script>
-
-<script src="https://unpkg.com/@codersrank/skills-chart@0.9.21/codersrank-skills-chart.min.js"></script>
-
-<script src="https://unpkg.com/@codersrank/work-experience@0.9.8/codersrank-work-experience.min.js"></script>
-
-<h1 id="about-me"><strong>About Me</strong></h1>
-
-<p>Hi! I’m <strong>Mark Lawrence</strong> <img class="emoji" title=":wave:" alt=":wave:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" height="20" width="20">,<br></p>
-
-<p>I love designing and building both front end (websites) and back end (APIs) software. I have over 25 years of experience in software development, working for organisations ranging in size from multinational enterprises to a small start-up. I’m a senior developer with a wide range of experience and technical expertise working primarily with C#/.net based software and websites. I have worked on projects ranging in size and complexity, in a variety of different industries.</p>
-
-<p>I have set up a profile on <a href="https://profile.codersrank.io/user/marklnz">CodersRank.io</a> to detail my skills, experience and ongoing coding contributions. My CodersRank profile can be viewed at <a href="https://profile.codersrank.io/user/marklnz">https://profile.codersrank.io/user/marklnz</a>. I use the data from my CodersRank profile below to highlight my skills and experience. Also, my resume is available for downloaded <a href="/resume/">here</a>.</p>
-
-<div class="row">
-    <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".15s">
-        <div class="project card">
-            <div class="card-body text-themed">
-                <h5 class="card-title"> 
-                    <i class="fab fa-html5"></i>
-                    Developing Websites
-                </h5>
-                <p>With over 10 years of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery and Angular.js, and Microsoft's ASP.Net MVC and WebAPI frameworks, I enjoy building stylish, yet functional, web applications for customers.</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".3s">
-        <div class="project card">
-            <div class="card-body text-themed">
-                <h5 class="card-title"> 
-                    <i class="fas fa-sitemap"></i>
-                    Architecture
-                </h5>
-                <p>I have software architecture experience at a variety of levels. My experience includes Enterprise Architecture work, as well as work developing software architecture elements, and reviewing architectures designed by others.</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".45s">
-        <div class="project card">
-            <div class="card-body text-themed">
-                <h5 class="card-title"> 
-                    <i class="fas fa-users-cog"></i>
-                    ALM and DevOps
-                </h5>
-                <p>Years of experience in enterprises has given me a strong understanding of the need for ALM and DevOps. Most recently I've made use of Microsoft's Azure DevOps to build a solid DevOps foundation for my current development team.</p>
-            </div>
-        </div>
-    </div>
-</div>
-
+                <div class="row">
+                    <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".15s">
+                        <div class="project card">
+                            <div class="card-body text-themed">
+                                <h5 class="card-title">
+                                    <i class="fab fa-html5"></i>
+                                    Developing Websites
+                                </h5>
+                                <p>
+                                    With over 10 years of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery and Angular.js, and Microsoft's ASP.Net MVC and WebAPI
+                                    frameworks, I enjoy building stylish, yet functional, web applications for customers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".3s">
+                        <div class="project card">
+                            <div class="card-body text-themed">
+                                <h5 class="card-title">
+                                    <i class="fas fa-sitemap"></i>
+                                    Architecture
+                                </h5>
+                                <p>
+                                    I have software architecture experience at a variety of levels. My experience includes Enterprise Architecture work, as well as work developing software
+                                    architecture elements, and reviewing architectures designed by others.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".45s">
+                        <div class="project card">
+                            <div class="card-body text-themed">
+                                <h5 class="card-title">
+                                    <i class="fas fa-users-cog"></i>
+                                    ALM and DevOps
+                                </h5>
+                                <p>
+                                    Years of experience in enterprises has given me a strong understanding of the need for ALM and DevOps. Most recently I've made use of Microsoft's Azure DevOps to
+                                    build a solid DevOps foundation for my current development team.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- 
 <h2 id="my-coding-activity">My Coding Activity</h2>
 
 <p>Here’s what my project contributions over the past year look like. This includes commits to my github projects as well as my activity in the commercial projects I’m working on. This chart forms part of my <a href="https://profile.codersrank.io/user/marklnz">CodersRank.io</a> profile.</p>
 
-<codersrank-activity username="marklnz" labels="" legend="" tooltip="" step="5" branding="false"></codersrank-activity>
+<codersrank-activity username="marklnz" labels="" legend="" tooltip="" step="5" branding="false"></codersrank-activity> 
+-->
 
-<h2 id="my-skills">My Skills</h2>
+                <h2 id="my-skills">My Skills</h2>
 
-<p>As the IT industry is constantly changing, I’m always adding new skills to my repertoire. I’m always ready for fresh challenges with new techniques and technologies. The skills I have used most over the past 12 months are shown on the chart below (courtesy of <a href="https://profile.codersrank.io/user/marklnz">CodersRank</a>).</p>
+                <p>
+                    As the IT industry is constantly changing, I’m always adding new skills to my repertoire. I’m always ready for fresh challenges with new techniques and technologies. The skills I
+                    have used most over the past 12 months are shown on the chart below (courtesy of <a href="https://profile.codersrank.io/user/marklnz">CodersRank</a>).
+                </p>
 
-<p>I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume">here</a>.</p>
+                <p>I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume">here</a>.</p>
 
-<codersrank-skills-chart username="marklnz" labels="true" legend="true" tooltip="true" skills="C#,Blazor,CSS,HTML,JavaScript,SQL,TSQL,TypeScript" branding="false"></codersrank-skills-chart>
-<p><br></p>
+                <codersrank-skills-chart
+                    username="marklnz"
+                    labels="true"
+                    legend="true"
+                    tooltip="true"
+                    skills="C#,Blazor,CSS,HTML,JavaScript,SQL,TSQL,TypeScript"
+                    branding="false"
+                ></codersrank-skills-chart>
+                <p><br /></p>
 
-<h2 id="professional-experience">Professional Experience</h2>
+                <h2 id="professional-experience">Professional Experience</h2>
 
-<p>I have over 25 years of experience in software development, and have worked for a variety of organisations, large and small. My relevant experience is summarised below (again, courtesy of <a href="https://profile.codersrank.io/user/marklnz">CodersRank</a>). My resume contains full details of my experience. You can download or print a copy <a href="/resume">here</a>. 
-<br></p>
-<codersrank-work-experience username="marklnz" branding="false" max-items="3"></codersrank-work-experience>
+                <p>
+                    I have over 25 years of experience in software development, and have worked for a variety of organisations, large and small. My relevant experience is summarised below (again,
+                    courtesy of <a href="https://profile.codersrank.io/user/marklnz">CodersRank</a>). My resume contains full details of my experience. You can download or print a copy
+                    <a href="/resume">here</a>. <br />
+                </p>
+                <codersrank-work-experience username="marklnz" branding="false" max-items="3"></codersrank-work-experience>
+            </div>
+        </main>
 
-</div>
-  </main>
+        <footer class="mt-auto py-3 text-center">
+            <small class="text-muted mb-2"> <i class="fas fa-code"></i> with <i class="fas fa-heart"></i> by <strong>Mark Lawrence</strong> </small>
 
-  <footer class="mt-auto py-3 text-center">
+            <div class="container-fluid justify-content-center">
+                <a class="social mx-1" href="mailto:markl.nz@hotmail.com" style="color: #6c757d" onmouseover="this.style.color='#db4437'" onmouseout="this.style.color='#6c757d'">
+                    <i class="fas fa-envelope fa-1x"></i> </a
+                ><a class="social mx-1" href="https://www.github.com/marklnz" style="color: #6c757d" onmouseover="this.style.color='#333333'" onmouseout="this.style.color='#6c757d'">
+                    <i class="fab fa-github fa-1x"></i> </a
+                ><a class="social mx-1" href="https://www.linkedin.com/in/marklnz" style="color: #6c757d" onmouseover="this.style.color='#007bb5'" onmouseout="this.style.color='#6c757d'">
+                    <i class="fab fa-linkedin-in fa-1x"></i> </a
+                ><a class="social mx-1" href="https://www.twitter.com/markl_nz" style="color: #6c757d" onmouseover="this.style.color='#1da1f2'" onmouseout="this.style.color='#6c757d'">
+                    <i class="fab fa-twitter fa-1x"></i>
+                </a>
+            </div>
+            <small id="attribution"> theme <a href="https://github.com/YoussefRaafatNasry/portfolYOU">portfolYOU</a> </small>
+        </footer>
 
-  <small class="text-muted mb-2">
-    <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
-    by <strong>Mark Lawrence</strong>
-  </small>
+        <!-- GitHub Buttons -->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-  <div class="container-fluid justify-content-center">
-<a class="social mx-1" href="mailto:markl.nz@hotmail.com" style="color: #6c757d" onmouseover="this.style.color='#db4437'" onmouseout="this.style.color='#6c757d'">
-      <i class="fas fa-envelope fa-1x"></i>
-    </a><a class="social mx-1" href="https://www.github.com/marklnz" style="color: #6c757d" onmouseover="this.style.color='#333333'" onmouseout="this.style.color='#6c757d'">
-      <i class="fab fa-github fa-1x"></i>
-    </a><a class="social mx-1" href="https://www.linkedin.com/in/marklnz" style="color: #6c757d" onmouseover="this.style.color='#007bb5'" onmouseout="this.style.color='#6c757d'">
-      <i class="fab fa-linkedin-in fa-1x"></i>
-    </a><a class="social mx-1" href="https://www.twitter.com/markl_nz" style="color: #6c757d" onmouseover="this.style.color='#1da1f2'" onmouseout="this.style.color='#6c757d'">
-      <i class="fab fa-twitter fa-1x"></i>
-    </a>
+        <!-- jQuery CDN -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-</div>
-<small id="attribution">
-    theme <a href="https://github.com/YoussefRaafatNasry/portfolYOU">portfolYOU</a>
-  </small>
-  
-</footer>
+        <!-- Popper.js CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
 
-  
-  <!-- GitHub Buttons -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+        <!-- Bootstrap JS CDN -->
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
-<!-- jQuery CDN -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <!-- wow.js CDN & Activation -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+        <script>
+            new WOW().init();
+        </script>
 
-<!-- Popper.js CDN -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
-
-<!-- Bootstrap JS CDN -->
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-
-<!-- wow.js CDN & Activation -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
-<script> new WOW().init(); </script>
-
-<!-- Initialize all tooltips -->
-<script>
-$(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-})
-</script>
-
-
-</body>
-
+        <!-- Initialize all tooltips -->
+        <script>
+            $(function () {
+                $('[data-toggle="tooltip"]').tooltip();
+            });
+        </script>
+    </body>
 </html>
