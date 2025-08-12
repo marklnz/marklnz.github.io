@@ -30,7 +30,7 @@ I have set up a profile on <a href="https://profile.codersrank.io/user/marklnz">
                     <i class="fab fa-html5"></i>
                     Developing Websites
                 </h5>
-                <p>With over 10 years of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery and Angular.js, and Microsoft's ASP.Net MVC and WebAPI frameworks, I enjoy building stylish, yet functional, web applications for customers.</p>
+                <p>With over 20 years of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery and Angular.js, and Microsoft's ASP.Net MVC and WebAPI frameworks, I enjoy building stylish, yet functional, web sites and distributed applications for customers.</p>
             </div>
         </div>
     </div>
