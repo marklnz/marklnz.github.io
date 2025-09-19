@@ -71,6 +71,8 @@ As the IT industry is constantly changing, I'm always adding new skills to my re
 <div class="row">
 {% include about/skills.html title="Cloud Skills" source=site.data.cloud-skills %}
 {% include about/skills.html title="Architecture Patterns & Styles Skills" source=site.data.architecture-skills %}
+</div>
+<div class="row">
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
