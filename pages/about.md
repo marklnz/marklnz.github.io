@@ -64,15 +64,16 @@ The following is a summary of some of my more recent experience and skills I've 
 
 As the IT industry is constantly changing, I'm always adding new skills to my repertoire. I'm always ready for fresh challenges with new techniques and technologies. The skills I have used most in the past few years are listed below. I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume.pdf" target="_blank">here</a>.
 
-<div class="row">
+<div class="card-columns m-3 mt-5">
+<!-- <div class="row"> -->
 {% include about/skills.html title="Front End Skills" source=site.data.frontend-skills %}
 {% include about/skills.html title="Back End Skills" source=site.data.backend-skills %}
-</div>
-<div class="row">
+<!-- </div> -->
+<!-- <div class="row"> -->
 {% include about/skills.html title="Cloud Skills" source=site.data.cloud-skills %}
 {% include about/skills.html title="Architecture Patterns & Styles" source=site.data.architecture-skills %}
-</div>
-<div class="row">
+<!-- </div> -->
+<!-- <div class="row"> -->
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
