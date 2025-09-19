@@ -77,4 +77,3 @@ I have over 25 years of experience in software development, and have worked for 
 <div class="row">
 {% include about/timeline.html %}
 </div>
-{%- endcomment -%}
