@@ -58,37 +58,21 @@ I have set up a profile on <a href="https://profile.codersrank.io/user/marklnz">
     </div>
 </div>
 
-<!-- ## My Coding Activity
-
-Here's what my project contributions over the past year look like. This includes commits to my github projects as well as my activity in the commercial projects I'm working on. This chart forms part of my <a href="https://profile.codersrank.io/user/marklnz">CodersRank.io</a> profile.
-
-<codersrank-activity username="marklnz" labels legend tooltip step="5" branding="false"></codersrank-activity> -->
-
 ## My Skills
 
-As the IT industry is constantly changing, I'm always adding new skills to my repertoire. I'm always ready for fresh challenges with new techniques and technologies. The skills I have used most over the past 12 months are shown on the chart below (courtesy of <a href="https://profile.codersrank.io/user/marklnz">CodersRank</a>).
-
-I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume.pdf">here</a>.
-
-<codersrank-skills-chart username="marklnz" labels="true" legend="true" tooltip="true" skills="C#,Blazor,CSS,HTML,JavaScript,SQL,TSQL,TypeScript" branding="false"></codersrank-skills-chart>
-
-{%- comment -%} Original style skills presentation
+As the IT industry is constantly changing, I'm always adding new skills to my repertoire. I'm always ready for fresh challenges with new techniques and technologies. The skills I have used most in the past few years are listed below. I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume.pdf" target="_blank">here</a>.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
-{%- endcomment -%}
 
 <br />
 
 ## Professional Experience
 
-I have over 25 years of experience in software development, and have worked for a variety of organisations, large and small. My relevant experience is summarised below (again, courtesy of <a href="https://profile.codersrank.io/user/marklnz">CodersRank</a>). My resume contains full details of my experience. You can download or print a copy <a href="/resume.pdf">here</a>.
+I have over 25 years of experience in software development, and have worked for a variety of organisations and projects, from startups to multi-million dollar enterprise work programs. My experience combines deep technical expertise with leadership capabilities to drive innovation and mentor high-performing development teams. A timeline of my more recent experience is shown below. If you're interested in the full details of my experience, you can download or print a copy of my <a href="/resume.pdf" target="_blank">resume</a>.
 <br />
-<codersrank-work-experience username="marklnz" branding="false" max-items="3"></codersrank-work-experience>
-
-{%- comment -%} Original style skills presentation
 
 <div class="row">
 {% include about/timeline.html %}
