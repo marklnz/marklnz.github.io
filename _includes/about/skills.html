@@ -1,9 +1,9 @@
 <div class="col-lg">
-    <h2 class="mb-3">{{ include.title }}</h2>
+    <!-- <h2 class="mb-3">{{ include.title }}</h2>
 
     {% for skill in include.source %}
 
-    <!-- <div class="row justify-content-between align-items-center">
+    <div class="row justify-content-between align-items-center">
     <div class="col-10">
       <p class="mb-1">{{ skill.name }}</p>
     </div>
@@ -23,11 +23,13 @@
     </div>
   </div> -->
 
-    <div class="row justify-content-between align-items-center">
-        <div class="col-12">
-            <p class="mb-1 wow animated slideInLeft">{{ skill.name }}</p>
+    <!-- {% endfor %} -->
+    <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".15s">
+        <div class="project card">
+            <div class="card-body text-themed">
+                <h5 class="card-title">{{ include.title }}</h5>
+                <p>{% for skill in include.source %} {{ skill.name }}{% if forloop.last == false %}, {% endif %} {% endfor %}</p>
+            </div>
         </div>
     </div>
-
-    {% endfor %}
 </div>
