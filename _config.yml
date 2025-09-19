@@ -59,7 +59,7 @@ collections:
 
 ### Analytics ###
 analytics:
-    enabled: true # Set true to enable analytics
+    enabled: false # Set true to enable analytics
     google:
         tracking_id: UA-64756185-1
 
