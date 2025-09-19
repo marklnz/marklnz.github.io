@@ -1,0 +1,19 @@
+- name: MS Azure (App Services, Storage, AKS, Service Bus, Azure AI Services, API Management, Event Grid)
+  percentage: 90
+  color: info
+
+- name: MS Entra ID (formerly Azure AD)
+  percentage: 75
+  color: success
+
+- name: Cloud Native (Azure Functions, Azure Logic Apps)
+  percentage: 80
+  color: info
+
+- name: Azure Networking (Azure Front Door, Azure Load Balancing, Azure DNS)
+  percentage: 50
+  color: warning
+
+- name: Docker, Kubernetes
+  percentage: 50
+  color: warning

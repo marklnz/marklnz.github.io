@@ -1,0 +1,23 @@
+- name: C#/.Net framework, .Net Core, .Net 5+
+  percentage: 90
+  color: info
+
+- name: ASP.Net/ASP.Net Core
+  percentage: 75
+  color: success
+
+- name: Entity Framework/EF Core
+  percentage: 80
+  color: info
+
+- name: Microsoft Azure
+  percentage: 50
+  color: warning
+
+- name: Relational Databases (Azure SQL/SQL Server)
+  percentage: 75
+  color: success
+
+- name: No-SQL Databases (Cosmos DB)
+  percentage: 75
+  color: success

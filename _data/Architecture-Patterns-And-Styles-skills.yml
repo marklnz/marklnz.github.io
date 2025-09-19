@@ -1,27 +1,23 @@
-- name: Azure DevOps
+- name: Microservices design patterns
   percentage: 90
   color: info
 
-- name: Git & GitHub
+- name: CQRS
   percentage: 75
   color: success
 
-- name: CI/CD
+- name: Event Driven Architectures
   percentage: 80
   color: info
 
-- name: Github Actions
+- name: SOA
   percentage: 50
   color: warning
 
-- name: Agile
+- name: RESTful APIs
   percentage: 75
   color: success
 
-- name: Scrum
+- name: Distributed Applications Design
   percentage: 75
   color: success
-
-- name: Kanban
-  percentage: 50
-  color: warning

@@ -1,0 +1,27 @@
+- name: C# and .Net
+  percentage: 90
+  color: info
+
+- name: Blazor Web Assembly
+  percentage: 80
+  color: info
+
+- name: ASP.Net MVC
+  percentage: 90
+  color: info
+
+- name: HTML & CSS
+  percentage: 75
+  color: success
+
+- name: Javascript/Typescript
+  percentage: 60
+  color: success
+
+- name: React
+  percentage: 60
+  color: success
+
+- name: Angular
+  percentage: 50
+  color: warning

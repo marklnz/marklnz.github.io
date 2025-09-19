@@ -1,17 +1,25 @@
+- title: Tobii Dynavox - Pittsburgh, PA (working remote from Redondo Beach, CA)
+  from: July 2022
+  to: August 2025
+  description: Lead Software Engineer.
+      I was the Tech lead on the engineering team responsible for Boardmaker, a special education solution which facilitates learning and communication for students with communication difficulties. Boardmaker is used by over 900,000 users and over 700,000 educational institutions globally.
+      I was responsible for the architecture and technical direction of the suite of Boardmaker applications, and maintaining technical documentation. In this role, I led the team in efforts to modernize the software, updating the installed desktop apps from an Electron based solution to .Net MAUI.
+      I also initiated work to begin modernizing many of the server-side and back office tools from their legacy frameworks to more modern versions, principally from older .Net versions to .Net 8 and 9, and from older React versions to more current versions.
+      I also acted as technical liaison for other teams, attending weekly meetings led by the director of software engineering, where all product engineering teams met to discuss current work, and to coordinate efforts across teams.
+
 - title: Eyede Solutions Limited - Wellington, New Zealand
   from: Jan 2013
-  to: Present
-  description: Team lead, architect and software engineer. 
-               I'm a full stack software developer and architect responsible for leading in-house software development team at Eyede, working predominantly with Microsoft technologies on complex web based applications.
-               I oversee and collaborate with the other senior developers in developing Eyede's next generation multi tier web application architecture using Angular, TypeScript, JavaScript, HTML 5 and CSS 3, backed with WebAPI components using ASP.Net Core, Entity Framework Core and SQL Server. 
-               I have overseen, and provided hands-on assistance in building the developer tooling and CI components for this next generation web architecture with Node.js, Gulp, Bower and Karma, with Visual Studio Online hosted build servers.
+  to: July 2022
+  description: Team lead, architect and software engineer.
+      I'm a full stack software developer and architect responsible for leading in-house software development team at Eyede, working predominantly with Microsoft technologies on complex web based applications.
+      I oversee and collaborate with the other senior developers in developing Eyede's next generation multi tier web application architecture using Angular, TypeScript, JavaScript, HTML 5 and CSS 3, backed with WebAPI components using ASP.Net Core, Entity Framework Core and SQL Server.
+      I have overseen, and provided hands-on assistance in building the developer tooling and CI components for this next generation web architecture with Node.js, Gulp, Bower and Karma, with Visual Studio Online hosted build servers.
 
 - title: Optimation - Wellington, New Zealand
   from: July 2007
-  to:  Jan 2013
+  to: Jan 2013
   description: .Net Solutions Architect
-               I was a senior member of Optimation's C# development team.
-               I built Optimation’s reusable .net software architecture and reference implementation, using ASP.Net MVC in C#, along with SQL Server Entity Framework for data persistence, utilising Domain Driven Design and Command Query Responsibility Segregation principles, with front end web pages built using ASP.Net MVC, HTML5, Javascript with jQuery and CSS3 with Bootstrap. 
-               I served as technical lead and architect on .net projects for Optimation, all built on the archetype "reference architecture" using the technologies listed above.
-               I configured, administered and managed Optimation’s Team Foundation Server environment, including process customization and end user training.
-
+      I was a senior member of Optimation's C# development team.
+      I built Optimation’s reusable .net software architecture and reference implementation, using ASP.Net MVC in C#, along with SQL Server Entity Framework for data persistence, utilising Domain Driven Design and Command Query Responsibility Segregation principles, with front end web pages built using ASP.Net MVC, HTML5, Javascript with jQuery and CSS3 with Bootstrap.
+      I served as technical lead and architect on .net projects for Optimation, all built on the archetype "reference architecture" using the technologies listed above.
+      I configured, administered and managed Optimation’s Team Foundation Server environment, including process customization and end user training.
