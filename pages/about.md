@@ -5,9 +5,6 @@ permalink: /about/
 weight: 1
 ---
 
-<script src="https://unpkg.com/@codersrank/activity@0.9.14/codersrank-activity.min.js"></script>
-<script src="https://unpkg.com/@codersrank/skills-chart@0.9.21/codersrank-skills-chart.min.js"></script>
-<script src="https://unpkg.com/@codersrank/work-experience@0.9.8/codersrank-work-experience.min.js"></script>
 <style>
     codersrank-work-experience {
         --date-font-size: 0;
@@ -76,9 +73,14 @@ As the IT industry is constantly changing, I'm always adding new skills to my re
 
 ## Professional Experience
 
-I have over 25 years of experience in software development, and have worked for a variety of organisations and projects, from startups to multi-million dollar enterprise work programs. My experience combines deep technical expertise with leadership capabilities to drive innovation and mentor high-performing development teams. A timeline of my more recent experience is shown below. If you're interested in the full details of my experience, you can download or print a copy of my <a href="/resume.pdf" target="_blank">resume</a>.
+I have over 25 years of experience in software development, and have worked for a variety of organisations and projects, from startups to multi-million dollar enterprise work programs. My experience combines deep technical expertise with leadership capabilities to drive innovation and mentor high-performing development teams.
+
+A timeline of my more recent experience is shown below. If you're interested in the full details of my experience, you can download or print a copy of my <a href="/resume.pdf" target="_blank">resume</a>.
 <br />
 
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+<br />
+For information on my earlier experience, please see my <a href="/resume.pdf" target="_blank">resume</a>.
