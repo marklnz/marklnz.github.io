@@ -23,9 +23,9 @@ I love designing and building both front end (websites) and back end (APIs) soft
             <div class="card-body text-themed">
                 <h5 class="card-title"> 
                     <i class="fab fa-html5"></i>
-                    Developing Web Apps
+                    Building Web Apps
                 </h5>
-                <p>With over 20 years of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery, Angular. and React, and Microsoft's ASP.Net MVC, Blazor and WebAPI frameworks, I enjoy building stylish, yet functional, web sites and distributed applications for customers.</p>
+                <p>With over 20 years of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery, Angular. and React, and Microsoft's ASP.Net MVC, Blazor and WebAPI frameworks, I enjoy building stylish and functional, yet performant, web apps and distributed applications for customers.</p>
             </div>
         </div>
     </div>
@@ -45,9 +45,9 @@ I love designing and building both front end (websites) and back end (APIs) soft
             <div class="card-body text-themed">
                 <h5 class="card-title"> 
                     <i class="fas fa-users-cog"></i>
-                    Technical Leadership
+                    Team Leadership
                 </h5>
-                <p>I am a pragmatic leader who pairs hands-on experience with an understanding of how to elevate team performance through mentorship and giving team members a voice. I believe in fostering a culture of collaboration and continuous improvement, where every team member feels valued and empowered to contribute their best work.</p>
+                <p>I am a pragmatic technical leader who pairs hands-on experience with an understanding of how to elevate team performance through mentorship and giving team members a voice. I believe in fostering a culture of collaboration and continuous improvement, where team members feel valued and empowered to contribute their best work.</p>
             </div>
         </div>
     </div>
