@@ -47,17 +47,15 @@ I love designing and building both front end (websites) and back end (APIs) soft
                     <i class="fas fa-users-cog"></i>
                     Technical Leadership
                 </h5>
-                <p>I am a pragmatic leader who pairs hands-on experience with an understanding of how to elevate team performance through mentorship and giving team members a voice, to drive successful outcomes. I believe in fostering a culture of collaboration and continuous improvement, where every team member feels valued and empowered to contribute their best work.</p>
+                <p>I am a pragmatic leader who pairs hands-on experience with an understanding of how to elevate team performance through mentorship and giving team members a voice. I believe in fostering a culture of collaboration and continuous improvement, where every team member feels valued and empowered to contribute their best work.</p>
             </div>
         </div>
     </div>
 </div>
 
-## My Skills
-
-I had set up a profile on <i>CodersRank.io</i> to detail my skills, experience and ongoing coding contributions but unfortunately that site appears to have become a victim of time, and no longer appears functional. In case that site does make a comeback, however, the link to my CodersRank profile is <a href="https://profile.codersrank.io/user/marklnz" target="_blank">here</a>.
-
 The following is a summary of some of my more recent experience and skills I've used in these roles. For a more complete picture, my resume is available to view or download <a href="/resume.pdf" target="_blank">here</a>.
+
+## My Skills
 
 As the IT industry is constantly changing, I'm always adding new skills to my repertoire. I'm always ready for fresh challenges with new techniques and technologies. The skills I have used most in the past few years are listed below. I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume.pdf" target="_blank">here</a>.
 
