@@ -53,7 +53,6 @@ I love designing and building both front end (websites) and back end (APIs) soft
     </div>
 </div>
 <br />
-<br />
 
 The following is a summary of some of my more recent experience and skills I've used in these roles. For a more complete picture, my resume is available to view or download <a href="/resume.pdf" target="_blank">here</a>.
 
