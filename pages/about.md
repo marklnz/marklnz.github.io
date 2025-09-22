@@ -27,9 +27,9 @@ The following is a summary of some of my more recent experience and skills I've 
             <div class="card-body text-themed">
                 <h5 class="card-title"> 
                     <i class="fab fa-html5"></i>
-                    Developing Websites
+                    Developing Web Apps
                 </h5>
-                <p>With over 20 years of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery and Angular.js, and Microsoft's ASP.Net MVC and WebAPI frameworks, I enjoy building stylish, yet functional, web sites and distributed applications for customers.</p>
+                <p>With over 20 years of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery, Angular. and React, and Microsoft's ASP.Net MVC, Blazor and WebAPI frameworks, I enjoy building stylish, yet functional, web sites and distributed applications for customers.</p>
             </div>
         </div>
     </div>
@@ -51,7 +51,18 @@ The following is a summary of some of my more recent experience and skills I've 
                     <i class="fas fa-users-cog"></i>
                     ALM and DevOps
                 </h5>
-                <p>Years of experience in enterprises has given me a strong understanding of the need for ALM and DevOps. Most recently I've made use of Microsoft's Azure DevOps to build a solid DevOps foundation for my current development team.</p>
+                <p>Years of experience in enterprises has given me a strong understanding of the need for ALM and DevOps. In recent roles, I've made extensive use of Microsoft's Azure DevOps to build a solid DevOps foundation for my teams, facilitating improved software quality and delivery speed.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".45s">
+        <div class="project card">
+            <div class="card-body text-themed">
+                <h5 class="card-title"> 
+                    <i class="fas fa-users-cog"></i>
+                    Technical Leadership
+                </h5>
+                <p>I am a pragmatic technical leader who pairs extensive hands-on experience with an understanding of how to elevate team performance through mentorship and giving team members a voice in decision making, to drive successful project outcomes. I believe in fostering a culture of collaboration and continuous improvement, where every team member feels valued and empowered to contribute their best work.</p>
             </div>
         </div>
     </div>
