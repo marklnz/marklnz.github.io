@@ -17,10 +17,6 @@ Hi! I'm **{{ site.author.name }}** :wave:,<br>
 
 I love designing and building both front end (websites) and back end (APIs) software. I have over 25 years of experience in software development, working for organisations ranging in size from multinational enterprises to a small start-up. I have a wide range of experience and technical expertise working primarily with C#/.net based software and web applications, as well as both Angular and React websites, and leading teams in implementing solutions on those platforms. I have worked on projects ranging in size and complexity, in a variety of different industries.
 
-I had set up a profile on <i>CodersRank.io</i> to detail my skills, experience and ongoing coding contributions but unfortunately that site appears to have become a victim of time, and no longer appears functional. In case that site does make a comeback, however, the link to my CodersRank profile is <a href="https://profile.codersrank.io/user/marklnz" target="_blank">here</a>.
-
-The following is a summary of some of my more recent experience and skills I've used in these roles. For a more complete picture, my resume is available to view or download <a href="/resume.pdf" target="_blank">here</a>.
-
 <div class="row">
     <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".15s">
         <div class="project card">
@@ -58,6 +54,10 @@ The following is a summary of some of my more recent experience and skills I've 
 </div>
 
 ## My Skills
+
+I had set up a profile on <i>CodersRank.io</i> to detail my skills, experience and ongoing coding contributions but unfortunately that site appears to have become a victim of time, and no longer appears functional. In case that site does make a comeback, however, the link to my CodersRank profile is <a href="https://profile.codersrank.io/user/marklnz" target="_blank">here</a>.
+
+The following is a summary of some of my more recent experience and skills I've used in these roles. For a more complete picture, my resume is available to view or download <a href="/resume.pdf" target="_blank">here</a>.
 
 As the IT industry is constantly changing, I'm always adding new skills to my repertoire. I'm always ready for fresh challenges with new techniques and technologies. The skills I have used most in the past few years are listed below. I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume.pdf" target="_blank">here</a>.
 
