@@ -49,20 +49,9 @@ The following is a summary of some of my more recent experience and skills I've 
             <div class="card-body text-themed">
                 <h5 class="card-title"> 
                     <i class="fas fa-users-cog"></i>
-                    ALM and DevOps
-                </h5>
-                <p>Years of experience in enterprises has given me a strong understanding of the need for ALM and DevOps. In recent roles, I've made extensive use of Microsoft's Azure DevOps to build a solid DevOps foundation for my teams, facilitating improved software quality and delivery speed.</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 text-center wow animated fadeIn" data-wow-delay=".45s">
-        <div class="project card">
-            <div class="card-body text-themed">
-                <h5 class="card-title"> 
-                    <i class="fas fa-users-cog"></i>
                     Technical Leadership
                 </h5>
-                <p>I am a pragmatic technical leader who pairs extensive hands-on experience with an understanding of how to elevate team performance through mentorship and giving team members a voice in decision making, to drive successful project outcomes. I believe in fostering a culture of collaboration and continuous improvement, where every team member feels valued and empowered to contribute their best work.</p>
+                <p>I am a pragmatic leader who pairs hands-on experience with an understanding of how to elevate team performance through mentorship and giving team members a voice, to drive successful outcomes. I believe in fostering a culture of collaboration and continuous improvement, where every team member feels valued and empowered to contribute their best work.</p>
             </div>
         </div>
     </div>
