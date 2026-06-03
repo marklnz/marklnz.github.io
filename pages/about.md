@@ -25,7 +25,7 @@ I love designing and building both front end (websites) and back end (APIs) soft
                     <i class="fab fa-html5"></i>
                     Building Web Apps
                 </h5>
-                <p>With over 20 years of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery, Angular. and React, and Microsoft's ASP.Net MVC, Blazor and WebAPI frameworks, I enjoy building stylish and functional, yet performant, web apps and distributed applications for customers.</p>
+                <p>With decades of experience using tools like HTML5 and CSS3, Javascript libraries like jQuery, Angular. and React, and Microsoft's ASP.Net MVC, Blazor and WebAPI frameworks, I enjoy building stylish and functional, yet performant, web apps and distributed applications for customers.</p>
             </div>
         </div>
     </div>
@@ -58,7 +58,7 @@ The following is a summary of some of my more recent experience and skills I've 
 
 ## My Skills
 
-As the IT industry is constantly changing, I'm always adding new skills to my repertoire. I'm always ready for fresh challenges with new techniques and technologies. The skills I have used most in the past few years are listed below. I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume.pdf" target="_blank">here</a>.
+As the IT industry is constantly changing, I'm always adding new skills to my repertoire. I'm always ready for fresh challenges with new techniques and technologies. As a recent example of this, I recently completed the Harvard CS50P course, as a way to learn Python. The skills I have used most in the past few years are listed below. I have much more detail and a more complete list of my skills in my resume, which you can view, download, or print <a href="/resume.pdf" target="_blank">here</a>.
 
 <div class="card-columns m-3 mt-5">
 {% include about/skills.html title="Front End Skills" source=site.data.frontend-skills %}
