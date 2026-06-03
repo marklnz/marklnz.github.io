@@ -1,7 +1,7 @@
 ---
 name: PortScanner
 tools: [Python]
-image: ../assets/projects/ccs_summary.jpg
+image: ../assets/projects/portscanner.jpg
 description: Portscanner is a simple command-line tool that allows users to scan a target host for open TCP ports. I wrote this tool as a final project for the Harvard CS50P course, as a way to demonstrate my understanding of Python.
 weight: 1
 owner: Mark Lawrence
