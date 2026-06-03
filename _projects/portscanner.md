@@ -20,3 +20,7 @@ As part of the project submission, I also created a video demonstrating the func
 ## Technologies Used
 
 - Python 3.x
+
+## Screenshot
+
+![preview](../assets/projects/ridewise_preview.jpg)
