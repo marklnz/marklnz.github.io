@@ -23,4 +23,4 @@ As part of the project submission, I also created a video demonstrating the func
 
 ## Screenshot
 
-![preview](../assets/projects/ridewise_preview.jpg)
+![preview](../assets/projects/portscanner.jpg)
